@@ -57,7 +57,7 @@ I hope this page will provide you with a sound overview on my portfolio projects
 
 **🌱 Generate TV Scripts**: This is a RNN/LSTM network architecture where text data is used to generate a script dialogue for the US sitcom "Seinfeld". This neural network has been created with Python and *PyTorch*. The project has been implemented/developed within in my Udacity Nanodegree certification course "Deep Learning" and was the third of five projects I realized. The goal of this project was to learn how networks can be trained with specific texts to generate new texts being given some words as a starting point. 
 
-- Input data is *text data* (existing TV scripts for US sitcom "Seinfeld"
+- Input data is *text data* (existing TV scripts of US sitcom "Seinfeld")
 - Output data is *script text*
 - Algorithm used is a combination of ***RNN*** and ***LSTM*** in ***PyTorch***
 
