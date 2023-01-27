@@ -8,7 +8,7 @@ I hope this page will provide you with a sound overview on my portfolio projects
 
 #### Image Classification ###
 
-<img src="https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510_1280.jpg" alt="Flower Classifier" style="height: 100px; width:100px;"/>
+[![Foo]([https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510_1280.jpg](http://cdn.pixabay.com/photo/2015/04/19/08/32/)]
 
 **🌱 Flower Classifier**: Do you know the app "Picture This"? You can classify trees and plants using this app. In this project a neural network for such kind of image classification shall be created with Python and PyTorch as a framework. It can't classify anything else than flowers. It is therefore a "Flower Classifier". The project has been realized in my Udacity Nanodegree certification course "AI Programming with Python" and was the second of two projects I realized. 
 
