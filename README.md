@@ -64,7 +64,7 @@ I hope this page will provide you with an overview about my portfolio projects r
 - Output data is a ranking (feeling/mood of the author)
 - Model was deployed in AWS Cloud
 
-[Show Repository](to be done)
+[Show Repository](https://github.com/Quirly/Udacity_DeepLearning_AWS_SentimentAnalysis)
 
 <!--
 **Quirly/Quirly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
