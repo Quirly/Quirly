@@ -83,7 +83,7 @@ I hope this page will provide you with a sound overview on my portfolio projects
 
 #### Model Deployment in the AWS Cloud ####
 
-**🌱 Sentiment Analysis**: This is a network architecture where text data (reviews) is used to output the feeling of the author of the review based on the words he/she has chosen in his/her writing. This neural network has been created with Python and *PyTorch* and was deployed using AWS Sagemaker. The project has been realized in my Udacity Nanodegree certification course "Deep Learning" and was the fifth of five projects I worked on. The goal of this project was to learn how to deploy models in the AWS Cloud. 
+**🌱 Sentiment Analysis**: This is a sentiment analysis network which was set up and then deployed within the AWS cloud. A text review is entered and sent to the trained model hosted in AWS. Then, the model interprets the feeling of the author of the review based on the words chosen in the written text. The endpoint will then return an estimation as output to the requesting user. This neural network has been created with Python and *PyTorch* and was deployed using AWS Sagemaker. The project has been realized in my Udacity Nanodegree certification course "Deep Learning" and was the fifth of five projects I worked on. The goal of this project was to learn how to deploy models in the AWS Cloud. 
 
 - Input data is *text data* (reviews)
 - Output data is a ranking (feeling/mood of the author)
