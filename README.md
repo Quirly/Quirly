@@ -49,6 +49,8 @@ I hope this page will provide you with a sound overview on my portfolio projects
 
 ---
 
+<img src="pencils-g920c94008_640.jpg" alt="Script Generator" width="120" alt="(c) Pixabay">
+
 #### Seq2Seq Networks for Text Generation ####
 
 **🌱 Generate TV Scripts**: This is a RNN/LSTM network architecture where text data is used to generate a script dialogue for the US sitcom "Seinfeld". This neural network has been created with Python and *PyTorch*. The project has been implemented/developed within in my Udacity Nanodegree certification course "Deep Learning" and was the third of five projects I realized. The goal of this project was to learn how networks can be trained with specific texts to generate new texts being given some words as a starting point. 
