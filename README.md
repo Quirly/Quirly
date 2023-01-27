@@ -79,7 +79,7 @@ I hope this page will provide you with a sound overview on my portfolio projects
 
 ---
 
-<img src="sage.png" alt="Script Generator" width="120" alt="(c) Pixabay">
+<img src="sage.png" alt="Script Generator" width="160" alt="(c) Pixabay">
 
 #### Model Deployment in the AWS Cloud ####
 
