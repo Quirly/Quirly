@@ -123,7 +123,7 @@ I hope this page will provide you with a sound overview on my portfolio projects
 
 🔭  [Show Repository](https://github.com/Quirly/Udacity_Web_FE_02_Landing_Page)
 
-😄  [Show Website in Action](http://mylandingpagequirlyudacity.s3-website-us-west-2.amazonaws.com)
+:framed_picture: [Show Website in Action](http://mylandingpagequirlyudacity.s3-website-us-west-2.amazonaws.com)
 
 ---
 
