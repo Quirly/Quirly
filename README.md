@@ -23,7 +23,7 @@ I hope this page will provide you with an overview about my portfolio projects r
 - Output data is *dog breed name*
 - Algorithm used is *CNN* in PyTorch
 
-[Show Repository](to be done)
+[Show Repository](https://github.com/Quirly/Udacity_DL_02_DogBreedClassifier))
 
 
 #### Predicting Time Series Data ###
