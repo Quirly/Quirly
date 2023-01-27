@@ -66,6 +66,13 @@ I hope this page will provide you with an overview about my portfolio projects r
 
 [Show Repository](https://github.com/Quirly/Udacity_DeepLearning_AWS_SentimentAnalysis)
 
+### SQL (PostgreSQL) ###
+
+**🌱 Advanced SQL Querying**: This project was realized withing my "Udacity SQL Nanodegree". It was about a report about deforestation that had to be finalized. A gap text without actual figures was provided and the goal was to fill the gaps using SQL querying World Bank tabular source data.
+
+**🌱 Database Migration**: This project was about a web forum that was outdated and not suited for the current usage state anymore. So, the task was to create a new schema adapted to the current usage and to migrate the data of the old database to the new one using SQL, DDL, DML.
+
+
 <!--
 **Quirly/Quirly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
