@@ -8,7 +8,7 @@ I hope this page will provide you with a sound overview on my portfolio projects
 
 #### Image Classification ###
 
-<img src="marguerite-g29b58e904_640.jpg" alt="Flower Classifier" width="120">
+<img src="marguerite-g29b58e904_640.jpg" alt="Flower Classifier" width="120" alt="(c) Pixabay">
 
 **🌱 Flower Classifier**: Do you know the app "Picture This"? You can classify trees and plants using this app. In this project a neural network for such kind of image classification shall be created with Python and PyTorch as a framework. It can't classify anything else than flowers. It is therefore a "Flower Classifier". The project has been realized in my Udacity Nanodegree certification course "AI Programming with Python" and was the second of two projects I realized. 
 
@@ -18,6 +18,8 @@ I hope this page will provide you with a sound overview on my portfolio projects
 - enhanced by transfer learning
 
 [Show Repository](https://github.com/Quirly/udacity-AI-app-flower-classification)
+
+<img src="animal-company-g4e15affc2_640.jpg" alt="Flower Classifier" width="120" alt="(c) Pixabay">
 
 **🌱 Dog Breed Classifier**: This is a neural network for image classification created with Python and PyTorch as a framework. The project has been realized in my Udacity Nanodegree certification course "Deep Learning" and was the second of two projects I implemented. Here, a Convolutional Neural Network (CNN) was used.
 
