@@ -68,7 +68,7 @@ I hope this page will provide you with an overview about my portfolio projects r
 
 ### SQL (PostgreSQL) ###
 
-**🌱 Advanced SQL Querying**: This project was realized withing my "Udacity SQL Nanodegree". It was about a report about deforestation that had to be finalized. A gap text without actual figures was provided and the goal was to fill the gaps using SQL querying World Bank tabular source data.
+**🌱 Advanced SQL Querying**: This project was realized withing my "Udacity SQL Nanodegree", advanced querying techniques shall be practiced. What was this project about? A company is looking to understand which countries and regions around the world seem to have forests that have been shrinking in size, and also which countries and regions have the most significant forest area, both in terms of amount and percent of total area. The hope is that these findings can help to achieve the largest impact with the precious few resources that the organization has at its disposal. Tables of data have been found online dealing with forestation as well as total land area and region groupings, and these tables were brought together into a database that shall be now be queried to answer some of the most important questions in preparation for a meeting coming up in a few days. Ahead of the meeting a report had to be created providing a deforestation overview between 1990 and 2016.
 
 🔭 [Show Repository](https://github.com/Quirly/Udacity_SQL_01_Deforestation)
 
