@@ -19,9 +19,7 @@ I hope this page will provide you with a sound overview on my portfolio projects
 - Algorithm used is *MLP* in PyTorch
 - enhanced by transfer learning
 
-<button name="button" onclick="http://www.google.com">Click me</button>
-
-[Show Repository](https://github.com/Quirly/udacity-AI-app-flower-classification)
+[Click here to show repository](https://github.com/Quirly/udacity-AI-app-flower-classification)
 
 ---
 
