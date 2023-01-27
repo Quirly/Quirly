@@ -67,7 +67,7 @@ I hope this page will provide you with a sound overview on my portfolio projects
 
 #### Great Adversarial Networks (GANs) ####
 
-<img src="brad-pitt-g7813ac108_640.jpg" alt="Celebrity Generator" width="120" alt="(c) Pixabay">
+<img src="brad-pitt-g7813ac108_640.jpg" alt="Celebrity Generator" width="80" alt="(c) Pixabay">
 
 **🌱 Generate Fictitious Faces with CycleGANs**: This is a GAN network architecture where existing of images from celebrities are used to generate new, realistic, but non existing celebrity images. This neural network has been created with Python and *PyTorch*. The project has been realized in my Udacity Nanodegree certification course "Deep Learning" and was the fourth of five projects I implemented. The goal of this project was to learn how GAN networks can be used to generate completely new images given a set of images of the same type. 
 
