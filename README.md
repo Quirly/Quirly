@@ -8,7 +8,7 @@ I hope this page will provide you with an overview about my portfolio projects r
 
 #### Image Classification ###
 
-**🌱 Flower Classifier**: This is a neural network for image classification created with Python and PyTorch as a framework. The project has been realized in my Udacity Nanodegree certification course "AI Programming with Python" and was the second of two projects I realized. 
+**🌱 Flower Classifier**: Do you know the app "Picture This"? You can classify trees and plants using this app. In this project a neural network for such kind of image classification shall be created with Python and PyTorch as a framework. It can't classify anything else than flowers. It is therefore a "Flower Classifier". The project has been realized in my Udacity Nanodegree certification course "AI Programming with Python" and was the second of two projects I realized. 
 
 - Input data are *images*
 - Output data is *flower name*
