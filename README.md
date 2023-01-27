@@ -115,13 +115,15 @@ I hope this page will provide you with a sound overview on my portfolio projects
 
 ### Front End Web Development ###
 
+---
+
 <img src="landing.png" alt="Landing Page" width="120" alt="">
 
 **🌱 Landing Page**: This project is the second submission within my "Udacity Front End Web Developer Nanodegree". What is this about? I needed to build a landing page which adapts automatically depending on the content published. If you delete one article, automatically the navigation bar is adapted, if you add one, it is extended.
 
 🔭  [Show Repository](https://github.com/Quirly/Udacity_Web_FE_02_Landing_Page)
 
-🔭  [Show Website in Action](http://mylandingpagequirlyudacity.s3-website-us-west-2.amazonaws.com)
+😄  [Show Website in Action](http://mylandingpagequirlyudacity.s3-website-us-west-2.amazonaws.com)
 
 ---
 
