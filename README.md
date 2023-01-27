@@ -44,7 +44,7 @@ I hope this page will provide you with an overview about my portfolio projects r
 - Output data is *script text*
 - Algorithm used is a combination of ***RNN*** and ***LSTM*** in ***PyTorch***
 
-[Show Repository](to be done)
+[Show Repository](https://github.com/Quirly/udacity-AI-DL-RNN_NLP_TV_script_generation)
 
 #### Great Adversarial Networks (GANs) ####
 
@@ -54,7 +54,7 @@ I hope this page will provide you with an overview about my portfolio projects r
 - Output data is *image data*
 - Algorithm used is ***GAN*** in ***PyTorch***
 
-[Show Repository](https://github.com/Quirly/udacity-AI-DL-RNN_NLP_TV_script_generation)
+[Show Repository]()
 
 #### Model Deployment in the AWS Cloud ####
 
