@@ -12,8 +12,19 @@ I hope this page will provide you with an overview about my portfolio projects r
 
 - Input data are *images*
 - Output data is *flower name*
+- Algorithm used is *MLP* in PyTorch
+- enhanced by transfer learning
 
 [Show Repository](https://github.com/Quirly/udacity-AI-app-flower-classification)
+
+**Dog Breed Classifier**: This is a neural network for image classification created with Python and PyTorch as a framework. The project has been realized in my Udacity Nanodegree certification course "Deep Learning" and was the second of two projects I realized. Here, a Convolutional Neural Network (CNN) was used.
+
+- Input data are *images*
+- Output data is *dog breed name*
+- Algorithm used is *CNN* in PyTorch
+
+[Show Repository](to be done)
+
 
 #### Predicting Sales Patterns ###
 
@@ -21,6 +32,7 @@ I hope this page will provide you with an overview about my portfolio projects r
 
 - Input data is *tabular time series data*
 - Output data is *tabular time series data*
+- No ready-to-use algorithm, hands on implementation in Numpy
 
 [Show Repository](https://github.com/Quirly/udacity_predicting_bike_sharing_patterns)
 
