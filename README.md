@@ -4,7 +4,7 @@ thank you much for visiting my GitHub profile.
 
 I hope this page will provide you with a sound overview on my portfolio projects realized from 2020 up to now:
 
-### Data Science & AI ###
+### Data Science & AI Portfolio Projects ###
 
 #### Image Classification ###
 
@@ -93,7 +93,7 @@ I hope this page will provide you with a sound overview on my portfolio projects
 
 ---
 
-### SQL (PostgreSQL) ###
+### SQL (PostgreSQL) Portfolio Projects ###
 
 ---
 
