@@ -74,7 +74,7 @@ I hope this page will provide you with an overview about my portfolio projects r
 
 **🌱 Database Migration**: This project is the second submission within my "Udacity SQL Nanodegree". What is this about? Udiddit is a social news aggregator, content rating, and discussions website. On Udiddit, registered users are able to link to external content or post their own text content about various topics. In turn, other users can comment on these posts, and each user is allowed to cast a vote about each post, either in an up (like) or down (dislike) direction. Unfortunately, due to some time constraints before the initial launch of the site, the data model stored in Postgres hasn’t been well thought out, and is outdated - now there has a new setup to be designed: first, make an assessment of the situation and take steps to fix all the issues with the current data model, and then, once successful, to improve the current system by making it more robust and adding some web analytics.
 
-🔭  [Show Repository](none)
+🔭  [Show Repository](https://github.com/Quirly/Udacity_SQL_02_Uddidit_DatabaseSetup)
 
 <!--
 **Quirly/Quirly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
