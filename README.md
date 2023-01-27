@@ -117,7 +117,7 @@ I hope this page will provide you with a sound overview on my portfolio projects
 
 ---
 
-<img src="landing.png" alt="Landing Page" width="120" alt="">
+<img src="landing.png" alt="Landing Page" width="160" alt="">
 
 **🌱 Landing Page**: This project is the second submission within my "Udacity Front End Web Developer Nanodegree". What is this about? I needed to build a landing page which adapts automatically depending on the content published. If you delete one article, automatically the navigation bar is adapted, if you add one, it is extended.
 
