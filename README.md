@@ -39,6 +39,8 @@ I hope this page will provide you with a sound overview on my portfolio projects
 
 ---
 
+<img src="bicycling-g13af7293b_640.jpg" alt="Bike Sharing Net" width="120" alt="(c) Pixabay">
+
 **🌱 Predicting Bike Sharing Patterns**: This is a neural network where historical tabular data is used to predict bike sharing patterns in New York City based on various features like e.g. temperature, wind speed, historical bike usage pattern etc. This neural network has been created with Python and *NumPy* only, without a framework like *PyTorch*. The project has been realized in my Udacity Nanodegree certification course "Deep Learning" and was the first of five projects I submitted. The goal of this project was to learn how to deal with matrix multiplication in Neural Networks. The sizes have to match with each other in the calculation sequence so that forward pass and backpropagation work. 
 
 - Input data is *tabular time series data*
