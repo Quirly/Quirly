@@ -36,7 +36,7 @@ I hope this page will provide you with an overview about my portfolio projects r
 
 [Show Repository](https://github.com/Quirly/udacity_predicting_bike_sharing_patterns)
 
-### Seq2Seq Networks for Text Generation ###
+#### Seq2Seq Networks for Text Generation ####
 
 **🌱 Generate TV Scripts**: This is a RNN/LSTM network architecture where text data is used to generate a script dialogue for the US sitcom "Seinfeld". This neural network has been created with Python and *PyTorch*. The project has been realized in my Udacity Nanodegree certification course "Deep Learning" and was the third of five projects I realized. The goal of this project was to learn how networks can be trained with specific texts to generate new texts being given some words as a starting point. 
 
@@ -46,6 +46,8 @@ I hope this page will provide you with an overview about my portfolio projects r
 
 [Show Repository](to be done)
 
+#### Great Adversarial Networks (GANs) ####
+
 **🌱 Generate Fictitious Faces with CycleGANs**: This is a GAN network architecture where existing of images from celebrities are used to generate new, realistic, but non existing celebrity images. This neural network has been created with Python and *PyTorch*. The project has been realized in my Udacity Nanodegree certification course "Deep Learning" and was the fourth of five projects I implemented. The goal of this project was to learn how GAN networks can be used to generate completely new images given a set of images of the same type. 
 
 - Input data is *image data* (Celebrities)
@@ -54,7 +56,7 @@ I hope this page will provide you with an overview about my portfolio projects r
 
 [Show Repository](to be done)
 
-### Model Deployment in the AWS Cloud ###
+#### Model Deployment in the AWS Cloud ####
 
 **🌱 Sentiment Analysis**: This is a network architecture where text data (reviews) is used to output the feeling of the author of the review based on the words he/she has chosen in his/her writing. This neural network has been created with Python and *PyTorch* and was deployed using AWS Sagemaker. The project has been realized in my Udacity Nanodegree certification course "Deep Learning" and was the fifth of five projects I realized. The goal of this project was to learn how to deploy models in the AWS Cloud. 
 
