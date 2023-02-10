@@ -126,9 +126,9 @@ To provide a solution, the project scope was to create a **Amazon Redshift Data 
 
 - Input data is *log files* (JSON)
 - Output data is a Cloud Data Warehouse with a star schema data model (Amazon Redshift Cluster)
-- Infrastructure used is on AWS Cloud 
+- Infrastructure used is on AWS Cloud, implemented via boto3 library (Python)
 
-[Show Repository]()
+[Show Repository](https://github.com/Quirly/Udacity_DataEngineering_CloudDataWarehouse_Project-03--Public)
 
 ---
 
