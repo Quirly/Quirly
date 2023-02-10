@@ -95,29 +95,29 @@ I hope this page will provide you with a sound overview on my portfolio projects
 
 ### Data Engineering (with AWS) Portfolio Projects ###
 
-**🌱 Relational Data Models**:
+**🌱 Relational Data Models for Music Streaming App**:
 Story behind the project: A startup called "Sparkify" wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. They are interested in understanding what songs users are listening to. The company did not have an easy way to query their data, which resides in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
 
 The task was to review these files and then create a Postgres database with tables designed to optimize queries on song play analysis. The ETL pipelines for loading the data from the log files to the database for this analysis are also created and included. Tests of my database and ETL pipelines are run in unit tests to evaluate the schema/pipelines by comparison of my results with known expected results.
 
 - Input data is *log files* (JSON)
 - Output data is a relational data model (star schema)
-- Infrastructure used is on AWS Cloud 
+- Local implementation
 
 [Show Repository](https://github.com/Quirly/Udacity_DataEngineering_RelDataModeling_Postgres_Project-01)
 
 ---
 
-**🌱 NoSQL Data Models/Cloud Implementation**:
+**🌱 NoSQL Data Models for Music Streaming App**:
 Story behind the project: A startup called "Sparkify" wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. They are interested in understanding what songs users are listening to. The company did not have an easy way to query their data, which resides in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
 
 The project scope was to create a **Apache Cassandra** implementaton to solve the problem. My task was to design the NoSQL data model and to code the Apache Cassandra implementation. 
 
 - Input data is *log files* (JSON)
 - Output data is a NoSQL data model (Apache Cassandra)
-- Infrastructure used is on AWS Cloud 
+- Local implementation
 
-[Show Repository]()
+[Show Repository](https://github.com/Quirly/Udacity_DataEngineering_RelDataModeling_Cassandra_Project-02-)
 
 **🌱 Amazon Redshift Data Warehouse/Cloud Implementation**:
 The challenge was that a startup called "Sparkify" wanted to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team is particularly interested in understanding what songs users are listening to. The company did not have an easy way to query their data, which resides in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
