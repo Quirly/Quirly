@@ -95,7 +95,7 @@ I hope this page will provide you with a sound overview on my portfolio projects
 
 ### Data Engineering (with AWS) Portfolio Projects ###
 
-<img src="data-1.png" alt="DataEngineeringRel" width="120" alt="(c) Pixabay">
+<img src="data-1.jpg" alt="DataEngineeringRel" width="120" alt="(c) Pixabay">
 
 **🌱 Relational Data Models for Music Streaming App**:
 Story behind the project: A startup called "Sparkify" wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. They are interested in understanding what songs users are listening to. The company did not have an easy way to query their data, which resides in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
@@ -110,6 +110,8 @@ The task was to review these files and then create a Postgres database with tabl
 
 ---
 
+<img src="data-2.jpg" alt="DataEngineeringRel" width="120" alt="(c) Pixabay">
+
 **🌱 NoSQL Data Models for Music Streaming App**:
 Story behind the project: A startup called "Sparkify" wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. They are interested in understanding what songs users are listening to. These events are saved as csv files and will be loaded from theres.
 
@@ -122,6 +124,8 @@ The project scope was to create a **Apache Cassandra** implementaton to provide 
 [Show Repository](https://github.com/Quirly/Udacity_DataEngineering_RelDataModeling_Cassandra_Project-02-)
 
 ---
+
+<img src="data-3.jpg" alt="DataEngineeringRel" width="120" alt="(c) Pixabay">
 
 **🌱 Amazon Redshift Data Warehouse/Cloud Implementation**:
 The challenge was that a startup called "Sparkify" wanted to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team is particularly interested in understanding what songs users are listening to. The company did not have an easy way to query their data, which resides in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
