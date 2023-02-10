@@ -95,6 +95,8 @@ I hope this page will provide you with a sound overview on my portfolio projects
 
 ### Data Engineering (with AWS) Portfolio Projects ###
 
+<img src="data-1.png" alt="DataEngineeringRel" width="120" alt="(c) Pixabay">
+
 **🌱 Relational Data Models for Music Streaming App**:
 Story behind the project: A startup called "Sparkify" wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. They are interested in understanding what songs users are listening to. The company did not have an easy way to query their data, which resides in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
 
