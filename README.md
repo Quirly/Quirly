@@ -93,6 +93,45 @@ I hope this page will provide you with a sound overview on my portfolio projects
 
 ---
 
+### Data Engineering (with AWS) Portfolio Projects ###
+
+**🌱 Relational Data Models/Cloud Implementation**:
+The challenge was that a startup called "Sparkify" wanted to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team is particularly interested in understanding what songs users are listening to. The company did not have an easy way to query their data, which resides in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
+
+The project scope was to create a Postgres database with tables designed to optimize queries on song play analysis. My task was to create a database schema and ETL pipeline for this analysis. Tests of my database and ETL pipeline by running queries provided by the analytics team from "Sparkify" shall be run evaluated by comparison of my results with expected results.
+
+- Input data is *log files* (JSON)
+- Output data is a relational data model (star schema)
+- Infrastructure used is on AWS Cloud 
+
+[Show Repository]()
+
+---
+
+**🌱 NoSQL Data Models/Cloud Implementation**:
+The challenge was that a startup called "Sparkify" wanted to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team is particularly interested in understanding what songs users are listening to. The company did not have an easy way to query their data, which resides in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
+
+The project scope was to create a **Apache Cassandra** implementaton with tables designed to optimize queries on song play analysis. My task was to create a database schema and ETL pipeline for this analysis. Tests of my database and ETL pipeline by running queries provided by the analytics team from "Sparkify" shall be run evaluated by comparison of my results with expected results.
+
+- Input data is *log files* (JSON)
+- Output data is a NoSQL data model (Apache Cassandra)
+- Infrastructure used is on AWS Cloud 
+
+[Show Repository]()
+
+**🌱 Amazon Redshift Data Warehouse/Cloud Implementation**:
+The challenge was that a startup called "Sparkify" wanted to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team is particularly interested in understanding what songs users are listening to. The company did not have an easy way to query their data, which resides in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
+
+To provide a solution, the project scope was to create a **Amazon Redshift Data Warehhouse Cluster** implementaton with a data model implemented via facts & dimension tables, using a star schema. My task was to create this data model and ETL pipelines for a) staging and b) loading into the final tables of the Cloud DWH. Cloud infrastructure was created using Python boto3 as a library. You will get the best impression working with the Jupyter Notebook and your own AWS account. 
+
+- Input data is *log files* (JSON)
+- Output data is a Cloud Data Warehouse with a star schema data model (Amazon Redshift Cluster)
+- Infrastructure used is on AWS Cloud 
+
+[Show Repository]()
+
+---
+
 ### SQL (PostgreSQL) Portfolio Projects ###
 
 ---
