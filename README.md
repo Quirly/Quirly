@@ -109,9 +109,9 @@ The task was to review these files and then create a Postgres database with tabl
 ---
 
 **🌱 NoSQL Data Models for Music Streaming App**:
-Story behind the project: A startup called "Sparkify" wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. They are interested in understanding what songs users are listening to. The company did not have an easy way to query their data, which resides in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
+Story behind the project: A startup called "Sparkify" wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. They are interested in understanding what songs users are listening to. These events are saved as csv files and will be loaded from theres.
 
-The project scope was to create a **Apache Cassandra** implementaton to solve the problem. My task was to design the NoSQL data model and to code the Apache Cassandra implementation. 
+The project scope was to create a **Apache Cassandra** implementaton to provide a better and sustainable solution. My task was to design the NoSQL data model and to code the Apache Cassandra implementation. 
 
 - Input data is *log files* (JSON)
 - Output data is a NoSQL data model (Apache Cassandra)
